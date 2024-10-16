@@ -31,3 +31,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 7. **Governaça** (Aliado a Segurança permite maior  controle sobre seu ambiente)
 8. **Gerenciabilidade** (Gerencie seu ambiente através do Portal ou por programação (apis, linhas de commando, json etc))
    
+## Modelo de responsabilidades
+Analizando a tabela de resposabilidade vemos que o modelo IaaS (Infraestrtura como Serviço) é o que o cliente tem a maior resposabilidade, e o modelo SaaS (Software como Serviço) é o modelo em que o provedor tem a maior responsabilidade.
